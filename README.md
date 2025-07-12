@@ -34,13 +34,6 @@ The **Student Analysis** dashboard provides a comprehensive view of student-rela
 
 ---
 
-## 📷 Screenshots
-
-> Add screenshots of your Power BI report here (optional but recommended):
-
-
----
-
 ## 🔧 Requirements
 
 To view or edit the report:
